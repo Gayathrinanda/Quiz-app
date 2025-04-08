@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "12011000000007213",
+      "name": "quiz",
+      "domain": {
+        "id": "50024500831",
+        "name": "quiz-60036418536.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60036418536",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
