@@ -13,7 +13,7 @@ let quizData = [
       question:
         "Which CSS property is used to change the text color of an element?",
       options: [
-        " font-color",
+        "font-color",
         "font-style",
         "color",
         "text-color",
@@ -22,7 +22,7 @@ let quizData = [
     },
     {
       question: "Which of the following is the correct way to comment in JavaScript?",
-      options: ["!-- This is a comment ", " // This is a comment", " \* This is a comment \* ", "# This is a comment"],
+      options: ["!-- This is a comment ", "// This is a comment", " \* This is a comment \* ", "# This is a comment"],
       correct: "// This is a comment",
     },
     {
@@ -48,18 +48,18 @@ let quizData = [
     {
       question: "Which JavaScript function is used to schedule a function to be executed after a specific interval?",
       options: [
-        " setInterval()",
+        "setInterval()",
         "setImmediate()",
-        " setTimeout()",
-        " requestAnimationFrame()",
+        "setTimeout()",
+        "requestAnimationFrame()",
       ],
-      correct: " setTimeout()",
+      correct: "setTimeout()",
     },
     {
       question:
         "Which HTML tag is used to embed an image on a web page?",
       options: [
-        " img",
+        "img",
         "a",
         "src",
         "image",
@@ -69,12 +69,12 @@ let quizData = [
     {
       question: "Which JavaScript method is used to add a new element to the end of an array?",
       options: [
-        " push()",
+        "push()",
         "unshift()",
-        " pop()",
+        "pop()",
         "shift()",
       ],
-      correct: " push()",
+      correct: "push()",
     },
   ];
   
